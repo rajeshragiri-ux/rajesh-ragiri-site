@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About | Rajesh Ragiri</title>
+</head>
+<body>
+
+<h1>About Me</h1>
+
+<p>
+I believe that long-term professional excellence is built less on talent and more on
+discipline, clarity of thought, and consistency of effort.
+</p>
+
+<p>
+Over the years, I have learned that most mistakes—whether in engineering, quality,
+leadership, or markets—do not arise from lack of knowledge. They arise from poor
+decision-making under pressure and weak process discipline.
+</p>
+
+<p>
+I am Rajesh Ragiri, a professional with over seventeen years of experience across
+engineering execution, quality management systems, supplier assessment, audits,
+and process improvement.
+</p>
+
+<p>
+This website is a reflection of my learning journey. It is written for professionals
+who value depth over noise, process over shortcuts, and long-term thinking over
+quick outcomes.
+</p>
+
+<hr>
+
+<p><small>Writing under the initials <strong>RR</strong>.</small></p>
+
+<p><a href="index.html">← Back to Home</a></p>
+
+</body>
+</html>
